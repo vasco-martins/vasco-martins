@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasco-martins" alt="vasco-martins" /></a> </p>
 
-- 🌱 I’m currently learning **Elixir**
-
 - 💬 Ask me about **Laravel and ReactJS**
 
 - 📫 How to reach me **contacto@vascomartins.pt**
