@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 💬 Ask me about **Laravel and Flutter**
+- 💬 Ask me about **Laravel and ReactJS**
 
-- 📫 How to reach me **vascomartins.dev@gmail.com**
+- 📫 How to reach me **contacto@vascomartins.pt**
 
 - ⚡ Fun fact **I love philosophy :)**
 
